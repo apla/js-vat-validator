@@ -1,0 +1,27 @@
+{
+    "name": "js-vat-validator",
+    "version": "1.26",
+    "authors": [
+        "John Gardner (http://www.braemoor.co.uk/software/vat.shtml)",
+        "Edgars Jekabsons (https://github.com/edgarsj)"
+    ],
+    "main": "lib/validator.js",
+    "scripts": [
+        "lib/validator.js"
+    ],
+    "ignore": [
+        "README.md"
+    ],
+    "moduleType": [
+        "amd",
+        "globals",
+        "node"
+    ],
+    "keywords": [
+        "vat"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/edgarsj/js-vat-validator"
+    }
+}
