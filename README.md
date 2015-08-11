@@ -12,7 +12,7 @@ Returns:
  Usage (using RequireJS):
   ```javascript
 
-    var vatValidator = require('bower/js-vat-validator/lib/validator');
+    var checkVATNumber = require('bower/js-vat-validator/lib/validator');
 
     checkedVatNumber = checkVATNumber(vatNumber);
 
